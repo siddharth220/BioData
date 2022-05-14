@@ -1,0 +1,153 @@
+body {
+    background-color: #B3E8E5;
+    margin: 0;
+    text-align: center;
+    font-family: "Patua One", sans-serif;
+}
+
+mark {
+    background-color: #2F8F9D;
+    border-radius: 8px;
+}
+
+h1 {
+    padding: 10px 0;
+    /* margin: 50px auto 0 auto; */
+    font-size: 500%;
+    line-height: 2;
+}
+
+h2 {
+    padding: 10px 0;
+    color: #37b3c4;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-width: 5px;
+    border-style: dotted none none none;
+    border-color: rgba(124, 198, 230, 0.741);
+    width: 5%;
+}
+
+.font-styling {
+    color: #7dbedc;
+}
+
+.top-container {
+    background-color: #EFFFFD;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #c2e5d9;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    /* margin-top: 65px; */
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: #69d0ac;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 320px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+.skills-img {
+    width: 20%;
+}
+
+.text {
+    color: #2599dc;
+}
+
+.btn {
+    color: #11999E;
+}
+
+.footer-link {
+    margin-top: 40px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #1e57c0;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.lua-img {
+    float: left;
+    margin-right: 30px;
+}
+
+.python-img {
+    float: right;
+    margin-left: 30px;
+}
+
+.html5-img {
+    float: left;
+    margin-right: 30px;
+}
+
+.css-img {
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-img {
+    margin-top: 40px;
+}
+
+.info-description {
+    margin-bottom: 40px;
+}
+
+.btn {
+    background: #74dae8;
+    background-image: -webkit-linear-gradient(top, #74dae8, #2b8d9e);
+    background-image: -moz-linear-gradient(top, #74dae8, #2b8d9e);
+    background-image: -ms-linear-gradient(top, #74dae8, #2b8d9e);
+    background-image: -o-linear-gradient(top, #74dae8, #2b8d9e);
+    background-image: linear-gradient(to bottom, #74dae8, #2b8d9e);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 12px 22px 12px 22px;
+    text-decoration: none;
+}
+
+.ending-description {
+    margin-bottom: 50px;
+}
+
+.copyright-text {
+    color: white;
+}
+
+.query-desc {
+    color: #3facbf;
+}
